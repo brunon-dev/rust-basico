@@ -1,3 +1,4 @@
 fn main() {
-    println!("Alô mundo!"); // Macro
+    let name = "Usuário";
+    println!("Alô mundo, {}!", name); // Macro
 }
